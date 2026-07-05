@@ -13,10 +13,7 @@
   <a href="https://wa.me/+6285870980885"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:pangestupu60@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/pandupan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=pandupan&label=Profile+Views&color=58A6FF&style=flat-square" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=pandupan&label=Views&color=58A6FF&style=flat-square" alt="visitor counter" />
 </p>
 
 <br>
