@@ -133,15 +133,6 @@
 
 <br>
 
-<!-- ===== QUOTE ===== -->
-<blockquote>
-<p><i>"The stock market is designed to transfer money from the Active to the Patient."</i></p>
-<p align="right">— Warren Buffett</p>
-</blockquote>
-
-<br>
-
-<!-- ===== CURRENT FOCUS ===== -->
 <h2>:bar_chart: GitHub Stats</h2>
 
 <p align="center">
@@ -160,6 +151,21 @@
 <br>
 
 <!-- ===== TECH STACK ===== -->
+
+<br>
+
+<!-- ===== QUOTE ===== -->
+<blockquote>
+<p><i>"The stock market is designed to transfer money from the Active to the Patient."</i></p>
+<p align="right">— Warren Buffett</p>
+</blockquote>
+
+<br>
+
+<!-- ===== CURRENT FOCUS ===== -->
+
+<br>
+
 <!-- ===== ANIMATED FOOTER ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer&animation=fadeIn" width="100%" />
 
