@@ -2,7 +2,7 @@
 
 <!-- ===== ANIMATED HEADER ===== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Pandu+Pangestu;%F0%9F%94%AC+ML+%26+Computer+Vision+Researcher;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%A4%96+Building+AI+Coding+Agents;%F0%9F%93%88+Investor+%26+Value+Compounders" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Pandu+Pangestu;%F0%9F%94%AC+ML+%26+Computer+Vision+Researcher;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%A4%96+Building+AI+Coding+Agents" alt="Typing SVG" />
 </a>
 
 <!-- ===== SOCIAL BADGES ===== -->
