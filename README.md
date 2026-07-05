@@ -69,12 +69,18 @@
 <h2>:bar_chart: GitHub Stats</h2>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pandupan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&bg_color=0D1117&hide_rank=false" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandupan&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170em" src="https://github-readme-stats-sigma-ten.vercel.app/api?username=pandupan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&bg_color=0D1117" />
+    <img height="170em" src="https://github-readme-stats-sigma-ten.vercel.app/api/top-langs/?username=pandupan&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+  </a>
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=pandupan&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=79C0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com?user=pandupan&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=79C0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandupan&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF" width="95%" />
 </p>
 
 <br>
