@@ -2,47 +2,61 @@
 
 <!-- ===== ANIMATED HEADER ===== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Pandu+Pangestu;%F0%9F%94%AC+ML+%26+Computer+Vision+Researcher;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%92%B0+Financial+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Pandu+Pangestu;%F0%9F%94%AC+ML+%26+Computer+Vision+Researcher;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%A4%96+Building+AI+Coding+Agents;%F0%9F%93%88+Investor+%26+Value+Compounders" alt="Typing SVG" />
 </a>
 
 <!-- ===== SOCIAL BADGES ===== -->
 <p>
+  <a href="https://www.linkedin.com/in/pandu-pangestu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/pandupan__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=mjKUP4YAAAAJ&hl=id"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" /></a>
   <a href="https://wa.me/+6285870980885"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:pangestupu60@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pandu-pangestu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/pandupan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-<!-- ===== ABOUT ME - Clean Text Version ===== -->
+<br>
+
+<!-- ===== ABOUT ME ===== -->
 <h2>:wave: About Me</h2>
 
 <p align="left">
-:man_student: <b>Computer Science student</b> at <b>Universitas Siliwangi</b>, based in Tasikmalaya, Indonesia.<br><br>
-:brain: Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>Web Development</b> — building AI-powered applications from research papers to production code.<br><br>
-:robot: <b>AI Enthusiast</b> — deeply fascinated by the rise of AI Coding Agents. The idea of automating repetitive tasks and accelerating development with intelligent assistants? Count me in!<br><br>
-:chart_with_upwards_trend: <b>Financial Enthusiast</b> — belajar investasi, value investing, dan prinsip-prinsip <i>compounding</i> ala Warren Buffett.<br><br>
-:video_game: When I'm not coding, you'll find me playing <b>MOBA games</b>, reading <b>books</b>, and learning about <b>investing</b>.
+:man_student: <b>Final Year Informatics</b> student at <b>Universitas Siliwangi</b>, based in Tasikmalaya, Indonesia.
+</p>
+
+<p align="left">
+:brain: Building at the intersection of <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>Web Development</b> — turning research papers into production-ready AI applications.
+</p>
+
+<p align="left">
+:robot: <b>AI Agent Enthusiast</b> — I believe the future belongs to those who can orchestrate intelligence. Whether it's fine-tuning YOLO for autonomous driving or building AI-powered coding assistants, I'm all in on the agentic revolution.
+</p>
+
+<p align="left">
+:money_with_wings: <b>Value Investor in Training</b> — I don't just compile code, I compound capital. Studying the timeless principles of long-term investing — because the best time to plant a tree was 20 years ago, the second best is now.
+</p>
+
+<p align="left">
+:video_game: Off the keyboard? You'll catch me grinding <b>MOBA</b> ranks, diving into a good <b>book</b>, or dissecting quarterly earnings reports like they're open-source codebases.
 </p>
 
 <br>
 
 <!-- ===== QUOTE ===== -->
 <blockquote>
-<p><i>"Someone's sitting in the shade today because someone planted a tree a long time ago."</i></p>
+<p><i>"The stock market is designed to transfer money from the Active to the Patient."</i></p>
 <p align="right">— Warren Buffett</p>
 </blockquote>
 
 <br>
 
 <!-- ===== CURRENT FOCUS ===== -->
-<h2>:dart: Currently Learning</h2>
+<h2>:dart: Currently Leveling Up</h2>
 <p>
   <img src="https://img.shields.io/badge/Computer_Vision-4285F4?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Investing-85BB65?style=for-the-badge&logo=money&logoColor=white" />
+  <img src="https://img.shields.io/badge/Value_Investing-85BB65?style=for-the-badge&logo=buffer&logoColor=white" />
 </p>
 
 <br>
@@ -50,12 +64,10 @@
 <!-- ===== GITHUB STATS ===== -->
 <h2>:bar_chart: GitHub Stats</h2>
 
-<div align="center">
-  <a href="https://github.com/pandupan">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pandupan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandupan&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-  </a>
-</div>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pandupan&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandupan&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+</p>
 
 <br>
 
@@ -100,7 +112,7 @@
 
 <br>
 
-<!-- ===== RESEARCH & PUBLICATIONS ===== -->
+<!-- ===== RESEARCH ===== -->
 <h2>:book: Research & Publications</h2>
 
 <table>
@@ -108,37 +120,26 @@
     <th>Paper</th>
     <th>Venue</th>
     <th>Year</th>
-    <th>Citations</th>
   </tr>
   <tr>
     <td><b>E-SAFE:</b> EfficientNet with Squeeze-and-Attention Feature Enhancement for Deepfake Detection</td>
     <td>JINITA</td>
-    <td>2026</td>
-    <td align="center">—</td>
+    <td align="center">2026</td>
   </tr>
   <tr>
     <td><b>YOLOv12 + Selective Kernel Networks</b> for Autonomous Driving Object Detection</td>
-    <td>IEEE — ICWT 2026</td>
-    <td>2026</td>
-    <td align="center">—</td>
-  </tr>
-  <tr>
-    <td><b>ASPIRE‑YOLOv12:</b> Adaptive Detection Framework for Low-Light Environments</td>
-    <td>Jurnal Masyarakat Informatika</td>
-    <td>2025</td>
-    <td align="center">—</td>
+    <td>IEEE ICWT</td>
+    <td align="center">2026</td>
   </tr>
   <tr>
     <td>Optimizing Corrosion Object Detection on Metal Objects Based on <b>BAMI‑YOLOv5s</b></td>
     <td>ICIC Express Letters</td>
-    <td>2025</td>
-    <td align="center">—</td>
+    <td align="center">2025</td>
   </tr>
   <tr>
-    <td>Clustering and Trend Analysis of Priority Commodities in the Archipelago Capital Region (IKN) Using Data Mining</td>
+    <td>Clustering and Trend Analysis of Priority Commodities in IKN Using Data Mining</td>
     <td>IJASST</td>
-    <td>2024</td>
-    <td align="center">4</td>
+    <td align="center">2024</td>
   </tr>
 </table>
 
@@ -150,7 +151,7 @@
 
 <br>
 
-<!-- ===== FOOTER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" />
+<!-- ===== ANIMATED FOOTER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer&animation=fadeIn" width="100%" />
 
 </div>
