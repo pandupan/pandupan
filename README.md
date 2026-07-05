@@ -43,15 +43,6 @@
 
 <br>
 
-<!-- ===== QUOTE ===== -->
-<blockquote>
-<p><i>"The stock market is designed to transfer money from the Active to the Patient."</i></p>
-<p align="right">— Warren Buffett</p>
-</blockquote>
-
-<br>
-
-<!-- ===== CURRENT FOCUS ===== -->
 <h2>:dart: Currently Leveling Up</h2>
 <p>
   <img src="https://img.shields.io/badge/Computer_Vision-4285F4?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -63,24 +54,6 @@
 <br>
 
 <!-- ===== GITHUB STATS ===== -->
-<h2>:bar_chart: GitHub Stats</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pandupan&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pandupan&theme=github_dark" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pandupan&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pandupan&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=79C0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
-</p>
-
-<br>
-
-<!-- ===== TECH STACK ===== -->
 <h2>:hammer_and_wrench: Tech Stack</h2>
 
 <h3>:computer: Languages</h3>
@@ -160,6 +133,33 @@
 
 <br>
 
+<!-- ===== QUOTE ===== -->
+<blockquote>
+<p><i>"The stock market is designed to transfer money from the Active to the Patient."</i></p>
+<p align="right">— Warren Buffett</p>
+</blockquote>
+
+<br>
+
+<!-- ===== CURRENT FOCUS ===== -->
+<h2>:bar_chart: GitHub Stats</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pandupan&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pandupan&theme=github_dark" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pandupan&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pandupan&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=79C0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
+</p>
+
+<br>
+
+<!-- ===== TECH STACK ===== -->
 <!-- ===== ANIMATED FOOTER ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer&animation=fadeIn" width="100%" />
 
