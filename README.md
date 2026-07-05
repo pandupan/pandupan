@@ -15,40 +15,34 @@
   <a href="https://github.com/pandupan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=pandupan&label=Profile+Views&color=58A6FF&style=flat-square" alt="visitor counter" />
+</p>
+
 <br>
 
 <!-- ===== ABOUT ME ===== -->
 <h2>:wave: About Me</h2>
 
-```python
-class PanduPangestu:
-    """
-    👨‍🎓 Final Year Informatics @ Universitas Siliwangi
-    📍 Tasikmalaya, Indonesia
-    """
+<p align="left">
+👨‍🎓 <b>Final Year Informatics</b> student at <b>Universitas Siliwangi</b>, based in Tasikmalaya, Indonesia.
+</p>
 
-    def __init__(self):
-        self.focus        = ["Machine Learning", "Computer Vision", "Web Development"]
-        self.stack        = ["Next.js", "TypeScript", "Laravel", "React Native",
-                             "PyTorch", "YOLO", "OpenCV", "Tailwind CSS"]
-        self.learning     = ["Computer Vision", "Agentic AI", "Deep Learning"]
-        self.investing    = True   # Compounding code & capital 📈
+<p align="left">
+🧠 Building at the intersection of <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>Web Development</b> — turning research papers into production-ready AI applications.
+</p>
 
-    def philosophy(self):
-        return (
-            "The future belongs to those who can orchestrate intelligence. "
-            "I build at the intersection of research and production — "
-            "from fine-tuning YOLO for autonomous driving to crafting "
-            "AI-powered coding agents."
-        )
+<p align="left">
+🤖 <b>AI Agent Enthusiast</b> — the future belongs to those who can orchestrate intelligence. From fine-tuning YOLO for autonomous driving to crafting AI-powered coding assistants, I'm all in on the agentic revolution.
+</p>
 
-    def after_hours(self):
-        return [
-            "Grinding MOBA ranks 🎮",
-            "Reading books 📚",
-            "Dissecting earnings reports like open-source codebases 💸"
-        ]
-```
+<p align="left">
+💸 <b>Investing Enthusiast</b> — I don't just compile code, I compound capital. Studying the timeless principles of long-term investing — the best time to plant a tree was 20 years ago, the second best is now.
+</p>
+
+<p align="left">
+🎮 When I'm not coding, you'll catch me grinding <b>MOBA</b> ranks, diving into a good <b>book</b>, or dissecting quarterly earnings reports like they're open-source codebases.
+</p>
 
 <br>
 
