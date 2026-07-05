@@ -69,7 +69,7 @@
 <h2>:bar_chart: GitHub Stats</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pandupan&theme=default" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pandupan&theme=github_dark" />
 </p>
 
 <p align="center">
