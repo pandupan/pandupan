@@ -65,8 +65,14 @@
 <h2>:bar_chart: GitHub Stats</h2>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pandupan&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandupan&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pandupan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandupan&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pandupan&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br>
